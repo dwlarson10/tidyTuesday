@@ -5,8 +5,8 @@ account: datadanlarson
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 990601
-bundleId: 2167303
+bundleId: 2168188
 url: https://datadanlarson.shinyapps.io/tidy_birds/
-when: 1561056901.83199
+when: 1561081069.70568
 asMultiple: FALSE
 asStatic: FALSE
